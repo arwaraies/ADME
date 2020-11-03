@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 datasets = ['clint','PPB','Solubility','logD']
 
 for data in datasets:
